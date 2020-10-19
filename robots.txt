@@ -1,0 +1,9 @@
+User-agent: Googlebot
+Disallow:
+Allow: /
+Sitemap: http://scorpion-master.ru/sitemap.xml
+
+User-agent: *
+Disallow:
+Allow: /
+Sitemap: http://scorpion-master.ru/sitemap.xml
